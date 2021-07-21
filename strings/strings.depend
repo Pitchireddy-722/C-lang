@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612165854 source:c:\users\91911\onedrive\desktop\c-lang\strings\str-examples.c
+	<stdio.h>
+	<string.h>
+
