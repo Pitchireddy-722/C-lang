@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613074573 source:c:\users\91911\onedrive\desktop\c-lang\pointers\pointer-examples.c
+	<stdio.h>
+	<stddef.h>
+
